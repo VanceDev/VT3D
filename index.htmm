@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VT 3D - 3D Printing & Design</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="logo">VT 3D</div>
+      <p class="tagline">3D Printing & Design</p>
+    </header>
+
+    <div class="content">
+      <div class="left">
+        <h1>Building the Ultimate 3D Printing Setup</h1>
+        <p class="subtitle">I'm a 3D printing enthusiast and creator, designing and sharing models on MakerWorld. Currently expanding my printer fleet with strategic gear investments.</p>
+
+        <div class="printer-box">
+          <div class="printer-name">🖨️ Bambu X1C</div>
+          <div class="printer-detail">With AMS (Automated Material System)</div>
+          <div class="printer-detail">High-end multicolor printing, fast and reliable</div>
+        </div>
+
+        <div class="printer-box">
+          <div class="printer-name">🖨️ Bambu H2S</div>
+          <div class="printer-detail">With AMS 2 Pro</div>
+          <div class="printer-detail">Fast functional prints and advanced multicolor</div>
+        </div>
+      </div>
+
+      <div class="right">
+        <div class="goal-section">
+          <div class="goal-label">Next Goal</div>
+          <div class="goal-title">A1 Mini</div>
+          <p class="goal-description">
+            My next printer: a compact, dedicated solo unit for minis, fidgets, and windowsill projects. Perfect for content creation and rapid prototyping.
+          </p>
+          <a href="https://makerworld.com/en/@VT_3D/upload" class="cta-button">Visit My MakerWorld</a>
+        </div>
+      </div>
+    </div>
+
+    <footer>
+      <p class="footer-text">Sharing 3D designs • Growing on MakerWorld • Building toward the X2D</p>
+      <p class="footer-text">Follow the journey →</p>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
